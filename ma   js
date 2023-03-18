@@ -1,0 +1,69 @@
+-run -Clipboard  
+-eval -this -File
+sieep(3)-run 
+fetch -FileList -of -ip ()
+ 
+-fetch -InputDeviceInfo 
+history 
+getComputedStyle = InputEvent -alert 
+-get -addEventListener -class URL  
+  {importScripts=  of= URL ()
+  -FileList -of  -url (all -File )   }
+ report -to -URL () -CryptoKey 
+delete CryptoKey -Event
+{
+-AnalyserNode -eval 
+-Lock -length -to (URL ())
+delete all -history -ip -EventCounts -EventSource -EventTarget 
+}
+KeyboardEvent = removeEventListener 
+request -LockManager -to -URL () -FileList
+-report -to -URL ()
+{
+GeolocationCoordinates = false 
+-addEventListener -to -GeolocationCoordinates  
+}
+-StorageManager -Lock -all -FileSystem -to -CryptoKey
+function br (CryptoKey) {
+ 
+} 
+-br -encode in FileSystemDirectoryHandle -sessionStorage 
+
+{
+ unReadableStream = -br (true) 
+ { 
+ -Analyser -File 
+  delete Analyser -File 
+ }
+ 
+
+}
+ KeyboardEvent (TextTrackList)
+
+{
+CryptoKey -fetch -of -URL ()
+} FileList =>File-name ()
+{
+TextTrackList -of -KeyboardEvent 
+}
+TextTrackList ()
+{
+-eval -TextTrackList
+do { -Lock -KeyboardEvent 
+  delete encode -EventSource
+  EventTarget
+} while (KeyboardEvent );
+}
+-request -to -URL() -this -true  -stop (this -File )
+{ 
+ 
+} eval
+ -String -run -{ importScripts}
+{ prompt
+PaymentRequest -to  -this  -Computed
+PaymentResponse -to -URL()
+}
+PaymentRequest = print -hi -$100
+{this -File -is -delete 
+document -this -File -to  -Clipboard 
+} 
